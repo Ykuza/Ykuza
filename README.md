@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning BCA at University and Python on my self; yeah ur right, Im a selfstudy.
 - 💞️ I’m looking to collaborate on anything which belongs to Python (Im fresher at python rightnow:} )
 - 📫 You can reach me By:
--       <br>Linkedin: https://www.linkedin.com/in/besmella-kazimy-10680120b
-        <br>Mail: b.kazimy5@gmail.com
-        <br>Phone: +919056680620
+-       Linkedin: https://www.linkedin.com/in/besmella-kazimy-10680120b
+        Mail: b.kazimy5@gmail.com
+        Phone: +919056680620
 
 <!---
 Ykuza/Ykuza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
